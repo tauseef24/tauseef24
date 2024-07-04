@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tauseef Ul Hasan and I'm a full-stack developer .</h2>
+<h2 align="left">Hi 👋! My name is Tauseef Ul Hasan and I'm a full-stack developer.</h2>
 
 ###
 
